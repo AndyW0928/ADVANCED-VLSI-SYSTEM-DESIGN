@@ -13,7 +13,7 @@ The WDT is clocked by 2 separate clock domain,
 so you need to debug CDC issues with Spyglass.
 
 ## Lab4- A multi-clock domain system with L1 cache
-In this assignment, your responsibility includes completing the CPU design,
+Completing the CPU design,
 incorporating instruction and data cache elements, addressing AXI clock domain
 crossing challenges with various memory or IP components, and executing automatic
 place and route (APR).
