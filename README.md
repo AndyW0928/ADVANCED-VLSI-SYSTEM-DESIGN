@@ -1,5 +1,5 @@
-# ADVANCED-VLSI-SYSTEM-DESIGN 
-Graduate-Level Course @ NCKU EE (2024)
+# ADVANCED-VLSI-SYSTEM-DESIGN @ NCKU EE (2024)
+Graduate-Level Course 
 
 This repository contains lab projects and the final design for the graduate course **Advanced VLSI System Design**, focusing on RISC-V processor design, AXI-based SoC integration, memory subsystem, and real-world hardware acceleration applications.
 
